@@ -1,5 +1,5 @@
 # AllAboutDrawIO
-Semua dokumentasi project rancangan DwikyARF menggunakan Draw.IO
+Semua project documentation rancangan DwikyARF menggunakan Draw.IO
 
 Daftar Project:
 1. P&PM PVGi
