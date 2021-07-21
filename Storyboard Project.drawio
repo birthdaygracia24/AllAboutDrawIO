@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T12:17:03.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="f_ySJL5SolUXuQPFncE_" version="14.9.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-21T12:44:58.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="KSnPG70BhSNPHiqLHFDw" version="14.9.0" type="github" pages="2">
   <diagram id="R_xFI3e25QUkAhcV2hzh" name="hal 1">
-    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="TNec85Cxsv5LI-_aW5ap-7" value="Tokoh sampingan menolak dengan ajakan main di rumahnya serta menceritakan kondisi keluarganya yang pernah divonis positif&lt;br&gt;&lt;br&gt;(Menjaga mobilitas, menjaga jarak, menghindari makan bersama, menghindari kerumunan)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="800" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="TNec85Cxsv5LI-_aW5ap-8" value="Tokoh utama pergi meninggalkan tokoh utama ke tempat cangkruk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-8" value="Tokoh utama pergi meninggalkan tokoh sampingan ke tempat cangkruk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="293.5" y="800" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="TNec85Cxsv5LI-_aW5ap-9" value="Tokoh sampingan mencuci tangan&lt;br&gt;(mencuci tangan)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
