@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T11:08:24.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="oy4EgXZ1TpLyuoif1n3D" version="14.9.0" type="github"><diagram id="R_xFI3e25QUkAhcV2hzh" name="hal 1">zZZNb4MgGIB/jccuCkXtda77SLZdumTHhcg7MUExlFa7Xz+cqFXTZDss5SQ8wAs88Bo8nBTNg6IVf5EMhId81nj4zkMI+VFoPi05dSQIepKpnFk2gl3+BRb6lh5yBvtJRy2l0Hk1haksS0j1hFGlZD3t9inFdNaKZrAAu5SKJX3PmeYdjVE08kfIM97PHISbrqWgfWe7kz2nTNZnCG89nCgpdVcqmgREa6/30o27v9A6LExBqX8z4O0V0pgkzf5Inp9WH/Sd0GploxypONgN28XqU29AyUPJoA3ie/i25rmGXUXTtrU2h24Y14UwtcAUbThQGpqL6wyG3Zt7A7IArU6my3BpuhH2xgw3oR71o7Vl/Fx9aCG1R54NoUcrpmDF/EESclDSBt8Q1zxh9zyRMHLN0to9S7OUIz65tiTioKRFyjngKXTP0zzlHLAUuWdplnKxf/X/UuygpEXKOeBp456necr9qyVTHR+tP21nb3+8/QY=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-21T12:17:03.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="f_ySJL5SolUXuQPFncE_" version="14.9.0" type="github" pages="2">
+  <diagram id="R_xFI3e25QUkAhcV2hzh" name="hal 1">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-1" value="Opening Word&lt;br&gt;15 detik" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="210" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-2" value="&lt;span&gt;Berita dari TV seputar COVID-19 di Indonesia dari awal sampai Juli 2021&lt;/span&gt;&lt;br&gt;&lt;span&gt;1 menit&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293.5" y="210" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-3" value="Present Day:&lt;br&gt;tokoh utama mematikan TV setelah melihat isi berita dan mengeluh tentang isi berita" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="567" y="210" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-4" value="Tokoh utama keluar rumah tanpa menggunakan masker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="505" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-5" value="Ibu dari tokoh utama memberi himbauan untuk tidak keluar rumah dan menggunakan masker apabila hendak keluar&lt;br&gt;(memakai masker)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293.5" y="505" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-6" value="Tokoh utama pergi ke rumah tokoh sampingan untuk mengajak keluar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="567" y="505" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-7" value="Tokoh sampingan menolak dengan ajakan main di rumahnya serta menceritakan kondisi keluarganya yang pernah divonis positif&lt;br&gt;&lt;br&gt;(Menjaga mobilitas, menjaga jarak, menghindari makan bersama, menghindari kerumunan)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="800" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-8" value="Tokoh utama pergi meninggalkan tokoh utama ke tempat cangkruk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293.5" y="800" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TNec85Cxsv5LI-_aW5ap-9" value="Tokoh sampingan mencuci tangan&lt;br&gt;(mencuci tangan)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="567" y="800" width="240" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="hal 2" id="VcKgPR_5lNS0m8J5a_9Z">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="c56bSGtDZyINLiDl-l04-0" />
+        <mxCell id="c56bSGtDZyINLiDl-l04-1" parent="c56bSGtDZyINLiDl-l04-0" />
+        <mxCell id="c56bSGtDZyINLiDl-l04-2" value="Tokoh Utama sampai di tempat cangkruk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+          <mxGeometry x="20" y="210" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c56bSGtDZyINLiDl-l04-3" value="Tokoh utama bertemu temannya yang lain dan mulai berkerumun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+          <mxGeometry x="293.5" y="210" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c56bSGtDZyINLiDl-l04-4" value="5 hari setelahnya:&lt;br&gt;timbul gejala COVID-19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+          <mxGeometry x="567" y="210" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c56bSGtDZyINLiDl-l04-5" value="Tokoh utama tes dan hasilnya positif" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+          <mxGeometry x="20" y="505" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c56bSGtDZyINLiDl-l04-6" value="Tokoh utama mengingat pesan dari tokoh sampingan untuk isolasi mandiri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+          <mxGeometry x="293.5" y="505" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c56bSGtDZyINLiDl-l04-7" value="2 minggu setelahnya:&lt;br&gt;tokoh utama tes dan hasilnya negatif" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+          <mxGeometry x="567" y="505" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c56bSGtDZyINLiDl-l04-8" value="tokoh sampingan yang mengetahui kabar sembuhnya tokoh utama berniat menjenguk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+          <mxGeometry x="20" y="800" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c56bSGtDZyINLiDl-l04-9" value="tokoh sampingan memberitahu seputar vaksinasi pada tokoh utama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+          <mxGeometry x="293.5" y="800" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="c56bSGtDZyINLiDl-l04-10" value="tokoh utama mengikuti rangkaian vaksinasi ditemani tokoh sampingan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+          <mxGeometry x="567" y="800" width="240" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
