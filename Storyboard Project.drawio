@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T13:51:49.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="5f4Vh8nE-1Ski6O3X2rA" version="14.9.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-23T08:17:12.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="71WsK23IbS4gC0g9TTW5" version="14.9.2" type="github" pages="3">
   <diagram id="R_xFI3e25QUkAhcV2hzh" name="hal 1">
     <mxGraphModel dx="1038" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="hal 2" id="VcKgPR_5lNS0m8J5a_9Z">
-    <mxGraphModel dx="1221" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="c56bSGtDZyINLiDl-l04-0" />
         <mxCell id="c56bSGtDZyINLiDl-l04-1" parent="c56bSGtDZyINLiDl-l04-0" />
@@ -66,27 +66,24 @@
         <mxCell id="c56bSGtDZyINLiDl-l04-10" value="tokoh utama mengikuti rangkaian vaksinasi ditemani tokoh sampingan" style="rounded=0;whiteSpace=wrap;html=1;" parent="c56bSGtDZyINLiDl-l04-1" vertex="1">
           <mxGeometry x="567" y="800" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="VT5a7V3uQARGQU9jV66R-0" value="catatan:&lt;br&gt;ada dialog keseharian dan ada bagian orang yang bersin" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+        <mxCell id="VT5a7V3uQARGQU9jV66R-0" value="catatan:&lt;br&gt;ada dialog keseharian dan ada bagian orang yang bersin" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="c56bSGtDZyINLiDl-l04-1" vertex="1">
           <mxGeometry x="240" y="380" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mnVwt2IU-zdhsdQndZzL-0" value="catatan:&lt;br&gt;vaksinasi dilakukan 3 bulan setelah dinyatakan&lt;br&gt;sembuh atau mendapat hasil negatif" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
-          <mxGeometry x="545" y="675" width="270" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mnVwt2IU-zdhsdQndZzL-1" value="Catatan:&lt;br&gt;menambah board dengan adegan&lt;br&gt;mendiskusikan perihal vaksinasi" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="c56bSGtDZyINLiDl-l04-1">
+        <mxCell id="mnVwt2IU-zdhsdQndZzL-1" value="Catatan:&lt;br&gt;menambah board dengan adegan&lt;br&gt;mendiskusikan perihal vaksinasi" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="c56bSGtDZyINLiDl-l04-1" vertex="1">
           <mxGeometry x="40" y="975" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="XmV2v2JGoo1Too5d4Ikn" name="Pemeran &amp; Anggota">
-    <mxGraphModel dx="1730" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="M0oEU4TS3BrHoBrRtvQG-0" />
         <mxCell id="M0oEU4TS3BrHoBrRtvQG-1" parent="M0oEU4TS3BrHoBrRtvQG-0" />
-        <mxCell id="M0oEU4TS3BrHoBrRtvQG-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Pemeran:&lt;br&gt;1. Adam as tokoh utama&lt;br&gt;2. Nabillah as Ibu&lt;br&gt;3. Ian as tokoh sampinga&lt;br&gt;4. Nay as&amp;nbsp;teman 1&lt;br&gt;5. Mifta as teman 2&lt;br&gt;6. Hanif as teman 3&lt;br&gt;7. Lu&#39;ai as teman 4&lt;br&gt;8. Ward as teman 5&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="M0oEU4TS3BrHoBrRtvQG-1">
-          <mxGeometry x="35" y="70" width="280" height="160" as="geometry" />
+        <mxCell id="M0oEU4TS3BrHoBrRtvQG-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Pemeran:&lt;br&gt;1. Adam as tokoh utama&lt;br&gt;2. Nabillah as Ibu&lt;br&gt;3. Ian as tokoh sampingan&lt;br&gt;4. Nay as&amp;nbsp;teman 1&lt;br&gt;5. Hanif as teman 2&lt;br&gt;6. Ward as teman 3&lt;br&gt;7. Lu&#39;ai as teman 4&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="M0oEU4TS3BrHoBrRtvQG-1" vertex="1">
+          <mxGeometry x="25" y="75" width="300" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="qiNL66VY1HjpiGt_zqJx-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Agenda:&lt;br&gt;1. 21 Juli 2021 meet pertama&lt;br&gt;2. 22 Juli 2021 meet kedua&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="M0oEU4TS3BrHoBrRtvQG-1">
+        <mxCell id="qiNL66VY1HjpiGt_zqJx-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Agenda:&lt;br&gt;1. 21 Juli 2021 meet pertama&lt;br&gt;2. 22 Juli 2021 meet kedua&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="M0oEU4TS3BrHoBrRtvQG-1" vertex="1">
           <mxGeometry x="455" y="20" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
