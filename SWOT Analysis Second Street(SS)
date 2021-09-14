@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T06:52:26.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="vYFT4WrRMHG89fUVFNow" version="15.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T06:58:16.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="6kUCmZTFmK1OQcA0gUQC" version="15.2.5" type="github">
   <diagram id="mBeAsVp_8TUrwjqNnrac" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="BubxZ9s7MU_P5b4Si-Pm-2" value="Strategi SO&lt;br&gt;Memberikan potongan harga dan tambahan garansi terhadap produk tertentu di waktu tertentu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="190" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-3" value="Strategi WO&lt;br&gt;Memberikan kartu langganan terhadap customer yang melakukan repeat order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-3" value="Strategi WO&lt;br&gt;Memberikan kartu langganan beserta garansi terhadap customer yang melakukan repeat order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="190" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BubxZ9s7MU_P5b4Si-Pm-4" value="Strategi ST&lt;br&gt;Memberikan promo yang menarik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
