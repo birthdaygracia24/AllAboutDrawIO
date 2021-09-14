@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T07:00:03.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="FTqiX62g9RtqGBiA97aV" version="15.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T07:00:35.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="NpGIWZv1o5PDUPD0FsoP" version="15.2.5" type="github">
   <diagram id="mBeAsVp_8TUrwjqNnrac" name="Page-1">
-    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BubxZ9s7MU_P5b4Si-Pm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="209" y="130" width="410" height="390" as="geometry" />
+          <mxGeometry x="209" y="250" width="410" height="390" as="geometry" />
         </mxCell>
         <mxCell id="BubxZ9s7MU_P5b4Si-Pm-2" value="Strategi SO&lt;br&gt;Memberikan potongan harga dan tambahan garansi terhadap produk tertentu di waktu tertentu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="190" width="150" height="100" as="geometry" />
+          <mxGeometry x="240" y="310" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BubxZ9s7MU_P5b4Si-Pm-3" value="Strategi WO&lt;br&gt;Memberikan kartu langganan beserta garansi terhadap customer yang melakukan repeat order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="150" height="100" as="geometry" />
+          <mxGeometry x="440" y="310" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BubxZ9s7MU_P5b4Si-Pm-4" value="Strategi ST&lt;br&gt;Memberikan promo yang menarik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="370" width="150" height="100" as="geometry" />
+          <mxGeometry x="240" y="490" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BubxZ9s7MU_P5b4Si-Pm-5" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Strategi WT&lt;br&gt;Membuka jasa pembelian barang bekas dari loyal customer&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="370" width="150" height="100" as="geometry" />
+          <mxGeometry x="440" y="490" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BubxZ9s7MU_P5b4Si-Pm-6" value="Second Street&lt;br&gt;SWOT Analysis" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="364" y="145" width="100" height="30" as="geometry" />
+          <mxGeometry x="364" y="265" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-7" value="Strength&lt;br&gt;Harga Murah&lt;br&gt;Memiliki 3 cabang&lt;br&gt;SDM handal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-15" value="Strength&lt;br&gt;Harga Murah&lt;br&gt;Memiliki 3 cabang&lt;br&gt;SDM handal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-8" value="Weaknesses&lt;br&gt;Pembeli biasa ragu terhadap barang bekas yang tidak memiliki garansi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="560" width="130" height="80" as="geometry" />
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-16" value="Weaknesses&lt;br&gt;Pembeli biasa ragu terhadap barang bekas yang tidak memiliki garansi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-9" value="Opportunity&lt;br&gt;Adanya daya beli terhadap barang bekas layak pakai&lt;br&gt;&lt;br&gt;masyarakat konsumtif dengan belanja online" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="550" width="156" height="100" as="geometry" />
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-17" value="Opportunity&lt;br&gt;Adanya daya beli terhadap barang bekas layak pakai&lt;br&gt;&lt;br&gt;masyarakat konsumtif dengan belanja online" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="156" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-10" value="Threaths&lt;br&gt;E-commerce yang memberikan banyak promo menarik&lt;br&gt;&lt;br&gt;capital market dari E-commerce lain lebih besar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="550" width="160" height="100" as="geometry" />
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-18" value="Threaths&lt;br&gt;E-commerce yang memberikan banyak promo menarik&lt;br&gt;&lt;br&gt;capital market dari E-commerce lain lebih besar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
