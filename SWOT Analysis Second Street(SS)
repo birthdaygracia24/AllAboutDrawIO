@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T06:30:23.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.2.5" etag="kj1__97fpm02sE8VUDEz" type="github"><diagram id="mBeAsVp_8TUrwjqNnrac">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-14T06:39:10.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="UnI_2IatTy1VA0L675Lh" version="15.2.5" type="github">
+  <diagram id="mBeAsVp_8TUrwjqNnrac" name="Page-1">
+    <mxGraphModel dx="1021" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="209" y="130" width="410" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-2" value="Strategi SO&lt;br&gt;Memberikan potongan harga terhadap produk tertentu di waktu tertentu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-3" value="Strategi WO&lt;br&gt;Memberikan kartu langganan terhadap customer yang melakukan repeat order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-4" value="Strategi ST&lt;br&gt;Memberikan promo yang menarik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-5" value="&lt;span style=&quot;font-weight: normal&quot;&gt;Strategi WT&lt;br&gt;Menerima pembelian barang bekas dari loyal customer&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BubxZ9s7MU_P5b4Si-Pm-6" value="Second Street&lt;br&gt;SWOT Analysis" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="145" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
